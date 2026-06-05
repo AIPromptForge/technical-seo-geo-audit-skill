@@ -245,46 +245,6 @@ This repository uses a careful GEO stance:
 | `--timeout` | `15` | HTTP request timeout in seconds |
 | `--user-agent` | built-in | custom fetch User-Agent |
 
-## GitHub Repository Setup
-
-Recommended repository name:
-
-```text
-technical-seo-geo-audit-skill
-```
-
-Recommended GitHub description:
-
-```text
-A Technical SEO, GEO, AI-search, and E-E-A-T audit skill with fetch-only automation for robots.txt, sitemap.xml, indexability, canonical tags, structured data, Core Web Vitals workflows, llms.txt, and prioritized remediation reports.
-```
-
-Recommended topics:
-
-```text
-technical-seo
-geo
-ai-search
-seo-audit
-eeat
-llms-txt
-structured-data
-google-search-console
-schema-org
-website-audit
-```
-
-Publish:
-
-```bash
-git init
-git add .
-git commit -m "feat: add technical SEO GEO audit skill"
-git branch -M main
-git remote add origin https://github.com/<your-org>/technical-seo-geo-audit-skill.git
-git push -u origin main
-```
-
 ## Official Calibration Sources
 
 - [Google Search Central: SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
